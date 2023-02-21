@@ -6,3 +6,7 @@ print("addition = ",c)
 #code for substraction by madan
 c=a-b
 print(c)
+
+#code for multiplication by madan
+c=a*b
+print(c)
